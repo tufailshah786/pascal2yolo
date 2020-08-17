@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-
-"""
-Created on Mon Mar  13 15:40:43 2016
-This script is to convert the txt annotation files to appropriate format needed by YOLO
-@author: Martin Hwang
-Email: dhhwang89@gmail.com
-"""
 
 import os
 from os import walk, getcwd
