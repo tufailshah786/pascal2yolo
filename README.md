@@ -1,4 +1,4 @@
-# pascal2yolo
+# pascal2yolo(Oriented-BBox)
 Converting the pascal voc files into the yolo format
 
 First of all you need the latest version of python installed in your pc
